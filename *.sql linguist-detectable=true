@@ -1,3 +1,0 @@
-git add .gitattributes
-git commit -m "Add .gitattributes to force SQL detection"
-git push
