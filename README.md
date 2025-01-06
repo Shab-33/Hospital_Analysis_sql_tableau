@@ -47,9 +47,7 @@ This project is divided into two parts:
 ```plaintext
 Hospital_Analysis/
 ├── SQL/
-│   ├── hospital_beds.sql         # SQL script for creating and cleaning hospital beds data
-│   ├── hcahps_data.sql           # SQL script for cleaning HCAHPS data
-│   ├── data_cleaning_and_join.sql # SQL script for joining datasets
+│   ├── Hospital_Survey_Data_QueryStatements.sql    # All SQL Scripts 
 ├── Data/
 │   ├── hcahps_2022.csv           # Raw HCAHPS data
 │   ├── hospital_beds.csv         # Raw hospital beds data
