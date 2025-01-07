@@ -42,6 +42,13 @@ This project is divided into two parts:
 5. **Export Data:** 
    - Save the cleaned dataset as `tableau_file.csv`.
 
+## Tableau File Dashboard View:
+
+![HCAHPS Data View](https://github.com/user-attachments/assets/065323a4-8ec8-4f6d-940d-0bc0d5ea9b0c)
+
+
+
+
 ## Folder Structure
 
 ```plaintext
